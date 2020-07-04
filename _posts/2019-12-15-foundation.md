@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 成立 Foundation
-date: 2020-06-19
+date: 2019-12-15
 author: 詹有丘 Ulysses
 ---
 
