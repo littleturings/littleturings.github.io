@@ -18,13 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Little Turings
+title: 小小图灵社 Little Turings
 email: 2938747508@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A club aiming at teaching other students to programme.
+  让更多人爱上编程 Create more love with programming
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://littleturings.github.io" # the base hostname & prot
 github_username: littleturings
+header_pages:
+  - about.md
+  - contact.md
 
 # Build settings
 theme: jekyll-theme-midnight
@@ -50,3 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - .idea/
