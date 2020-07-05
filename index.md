@@ -10,3 +10,6 @@ layout: default
 ---
 
 {% endfor %}
+
+通过RSS[订阅](/feed.xml)。<br/>
+[Subscribe](/feed.xml) via RSS.
