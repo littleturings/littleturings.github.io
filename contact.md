@@ -17,5 +17,11 @@ Ulysses' WeChat: youqiu_
 施想的email：[{{ orash_email }}](mailto:{{ orash_email }})<br/>
 Orash's email: [{{ orash_email }}](mailto:{{ orash_email }})
 
+施想的微信：13916377936<br/>
+Orash's Wechat: 13916377936
+
 胡姝婧的email：[{{ ryland_email }}](mailto:{{ ryland_email }})<br/>
 Ryland's email: [{{ ryland_email }}](mailto:{{ ryland_email }})
+
+胡姝婧的微信：15900592048
+Ryland's Wechat: 15900592048
