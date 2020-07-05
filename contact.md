@@ -23,5 +23,5 @@ Orash's Wechat: 13916377936
 胡姝婧的email：[{{ ryland_email }}](mailto:{{ ryland_email }})<br/>
 Ryland's email: [{{ ryland_email }}](mailto:{{ ryland_email }})
 
-胡姝婧的微信：15900592048
+胡姝婧的微信：15900592048<br/>
 Ryland's Wechat: 15900592048
