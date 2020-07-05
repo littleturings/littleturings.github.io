@@ -5,8 +5,8 @@ title: 联系 Contact
 ---
 
 {% assign ulysses_email="zhanyouqiu@jdfzib.org" %}
-{% assign orash_email="orash@jdfzib.org" %}
-{% assign ryland_email="ryland@jdfzib.org" %}
+{% assign orash_email="shixiang@jdfzib.org" %}
+{% assign ryland_email="m15900592048@163.com" %}
 
 詹有丘的email：[{{ ulysses_email }}](mailto:{{ ulysses_email }})<br/>
 Ulysses' email: [{{ ulysses_email }}](mailto:{{ ulysses_email }})
