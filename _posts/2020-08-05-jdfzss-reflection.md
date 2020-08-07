@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: post
 title: 暑期活动总结 Summer Session Summary
