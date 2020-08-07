@@ -11,8 +11,8 @@ For this summer school course, our club has been preparing for a long time.
 胡姝婧同学负责数据结构基础和算法基础的讲解与教授。<br/>
 Ryland is in charge of the explanation of data structure foundation and algorithm foundation.
 
-我(施想)负责 Python 基础操作和算法提高的讲解。<br/>
-I(Orash) am responsible for the explanation of Python basic operations and the algorithm improvement.
+我负责 Python 基础操作和算法提高的讲解。<br/>
+I am responsible for the explanation of Python basic operations and the algorithm improvement.
 
 詹有丘同学负责部分答疑工作与 Python 元编程的讲解。<br/>
 Ulysses is responsible for part of the Q&A work and the explanation of Python metaprogramming.
