@@ -47,11 +47,11 @@ Recursion & stack, basic search, binary search, linear search
 冒泡排序、选择排序、插入排序、归并排序、快速排序<br/>
 Bubble sort, selection sort, insertion sort, merge sort, quick sort
 
-9:
+9+10:
 树结构、二叉树查找、最小值、添加、删除<br/>
 Trees, binary tree search, minimum value, add, delete
 
-10:
+11+12:
 字符串排序、查找、正则表达式、数据压缩<br/>
 String sorting, search, regular expressions, data compression
 {% endcapture %}
