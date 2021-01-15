@@ -30,25 +30,27 @@ Lecturer intro: Bobby (杨淏然), WFLA sophomore. Excellent academic performanc
 Schedule (draft, varies with conditions):
 </p></summary>
 
-日期：<br/>
-Dates:
+<p>日期：<br/>
+Dates:</p>
 
-1/24, 1/31, 2/7, 2/14, 2/21
+<p>1/24, 1/31, 2/7, 2/14, 2/21</p>
 
-每次1.5小时。时间待定。<br/>
-1.5 hours per lesson. The start time is undecided.
+<p>每次1.5小时。时间待定。<br/>
+1.5 hours per lesson. The start time is undecided.</p>
 
-将包含以下内容：<br/>
-Will contain the following contents:
+<p>将包含以下内容：<br/>
+Will contain the following contents:</p>
 
-欢乐游乐场<br/>The amusement park | 熟悉Scratch，学会舞台设置和角色布局。<br/>Get familiar with Scratch, learn how to set the stage and characters layout
-登陆X星球<br/>Landing in X planet | 学会调整角色大小、角度。<br/>Learn how to configure the size and angle of characters
-宠物时装秀<br/>Pet fashion show | 学会组合角色，修改角色的颜色。</br>Learn how to combine characters and configure the color of characters
-美丽世界<br/>The beautiful world | 学会绘制简单背景和角色，涂渐变色。<br/>Learn how to draw simple background and characters and apply gradient color
-快乐的节日<br/>The happy festival | 开始接触程序，为作品增加背景音乐。<br/>Begin with programs and add background music to the work
-海底世界<br/>The undersea world |
-活力森林<br/>The dynamic forest |
-我喜欢的动物<br/>My favourite animals | 理解时序。学会录音，并通过编程来组织时序，完成一个展示动画。<br/>Understand timing sequence. Learn how to record audio, and organize the timing sequence by programming to finish a animation.
+<table><tbody>
+<tr><td>欢乐游乐场<br/>The amusement park</td><td>熟悉Scratch，学会舞台设置和角色布局。<br/>Get familiar with Scratch, learn how to set the stage and characters layout</td></tr>
+<tr><td>登陆X星球<br/>Landing in X planet</td><td>学会调整角色大小、角度。<br/>Learn how to configure the size and angle of characters</td></tr>
+<tr><td>宠物时装秀<br/>Pet fashion show</td><td>学会组合角色，修改角色的颜色。</br>Learn how to combine characters and configure the color of characters</td></tr>
+<tr><td>美丽世界<br/>The beautiful world</td><td>学会绘制简单背景和角色，涂渐变色。<br/>Learn how to draw simple background and characters and apply gradient color</td></tr>
+<tr><td>快乐的节日<br/>The happy festival</td><td>开始接触程序，为作品增加背景音乐。<br/>Begin with programs and add background music to the work</td></tr>
+<tr><td>海底世界<br/>The undersea world</td><td></td></tr>
+<tr><td>活力森林<br/>The dynamic forest</td><td></td></tr>
+<tr><td>我喜欢的动物<br/>My favourite animals</td><td>理解时序。学会录音，并通过编程来组织时序，完成一个展示动画。<br/>Understand timing sequence. Learn how to record audio, and organize the timing sequence by programming to finish a animation.</td></tr>
+</tbody></table>
 
 </details>
 
@@ -78,10 +80,12 @@ Founder and leader of Little Turings, and the maintainer of [the official websit
 Schedule (draft, varies with conditions):
 </p></summary>
 
-1/23 14:00 - 17:00 | 计算机基础、环境搭建、基础语法<br/>Basic computer operations, environment, basic syntax
-1/24 14:00 - 17:00 | 基本数据类型、运算符、数学<br/>Primitive data types, operators, math
-1/25 14:00 - 17:00 | 列表、字符串<br/>Lists, strings
-1/26 14:00 - 17:00 | 控制结构、函数<br/>Control flow, functions
+<table><tbody>
+<tr><td>1/23 14:00 - 17:00</td><td>计算机基础、环境搭建、基础语法<br/>Basic computer operations, environment, basic syntax</td></tr>
+<tr><td>1/24 14:00 - 17:00</td><td>基本数据类型、运算符、数学<br/>Primitive data types, operators, math</td></tr>
+<tr><td>1/25 14:00 - 17:00</td><td>列表、字符串<br/>Lists, strings</td></tr>
+<tr><td>1/26 14:00 - 17:00</td><td>控制结构、函数<br/>Control flow, functions</td></tr>
+</tbody></table>
 
 </details>
 
@@ -110,11 +114,13 @@ Works as the vice leader of Little Turings and the leader of JDFZ RDC Computer C
 Schedule (draft, varies with conditions):
 </p></summary>
 
-2/1 10:00 - 12:00 | 数据提取与验证码的识别<br/>Data extraction and verification code recognition
-2/2 10:00 - 12:00 | Scrapy框架<br/>Scrapy structure
-2/3 10:00 - 12:00 | 爬虫数据存储<br/>Crawler data storage
-2/4 10:00 - 12:00 | 动态数据抓取<br/>Extraction of dynamic data
-2/5 10:00 - 12:00 | 分布式爬虫<br/>Distributed crawler
+<table><tbody>
+<tr><td>2/1 10:00 - 12:00</td><td>数据提取与验证码的识别<br/>Data extraction and verification code recognition</td></tr>
+<tr><td>2/2 10:00 - 12:00</td><td>Scrapy框架<br/>Scrapy structure</td></tr>
+<tr><td>2/3 10:00 - 12:00</td><td>爬虫数据存储<br/>Crawler data storage</td></tr>
+<tr><td>2/4 10:00 - 12:00</td><td>动态数据抓取<br/>Extraction of dynamic data</td></tr>
+<tr><td>2/5 10:00 - 12:00</td><td>分布式爬虫<br/>Distributed crawler</td></tr>
+</tbody></table>
 
 </details>
 
