@@ -30,23 +30,21 @@ Lecturer intro: Bobby (杨淏然), WFLA sophomore. Excellent academic performanc
 Schedule (draft, varies with conditions):
 </p></summary>
 
-<p>日期：<br/>
-Dates:</p>
+<p>日期：1/24、1/31、2/7、2/14、2/21<br/>
+Dates: 1/24, 1/31, 2/7, 2/14, 2/21</p>
 
-<p>1/24, 1/31, 2/7, 2/14, 2/21</p>
-
-<p>每次1.5小时。时间待定。<br/>
-1.5 hours per lesson. The start time is undecided.</p>
+<p>每次1.5小时。具体时间待定。<br/>
+1.5 hours per lesson. The time is undecided.</p>
 
 <p>将包含以下内容：<br/>
 Will contain the following contents:</p>
 
 <table><tbody>
-<tr><td>欢乐游乐场<br/>The amusement park</td><td>熟悉Scratch，学会舞台设置和角色布局。<br/>Get familiar with Scratch, learn how to set the stage and characters layout</td></tr>
-<tr><td>登陆X星球<br/>Landing in X planet</td><td>学会调整角色大小、角度。<br/>Learn how to configure the size and angle of characters</td></tr>
-<tr><td>宠物时装秀<br/>Pet fashion show</td><td>学会组合角色，修改角色的颜色。</br>Learn how to combine characters and configure the color of characters</td></tr>
-<tr><td>美丽世界<br/>The beautiful world</td><td>学会绘制简单背景和角色，涂渐变色。<br/>Learn how to draw simple background and characters and apply gradient color</td></tr>
-<tr><td>快乐的节日<br/>The happy festival</td><td>开始接触程序，为作品增加背景音乐。<br/>Begin with programs and add background music to the work</td></tr>
+<tr><td>欢乐游乐场<br/>The amusement park</td><td>熟悉Scratch，学会舞台设置和角色布局。<br/>Get familiar with Scratch, learn how to set the stage and characters layout.</td></tr>
+<tr><td>登陆X星球<br/>Landing in X planet</td><td>学会调整角色大小、角度。<br/>Learn how to configure the size and angle of characters.</td></tr>
+<tr><td>宠物时装秀<br/>Pet fashion show</td><td>学会组合角色，修改角色的颜色。<br/>Learn how to combine characters and configure the color of characters.</td></tr>
+<tr><td>美丽世界<br/>The beautiful world</td><td>学会绘制简单背景和角色，涂渐变色。<br/>Learn how to draw simple background and characters and apply gradient color.</td></tr>
+<tr><td>快乐的节日<br/>The happy festival</td><td>开始接触程序，为作品增加背景音乐。<br/>Begin with programs and add background music to the work.</td></tr>
 <tr><td>海底世界<br/>The undersea world</td><td></td></tr>
 <tr><td>活力森林<br/>The dynamic forest</td><td></td></tr>
 <tr><td>我喜欢的动物<br/>My favourite animals</td><td>理解时序。学会录音，并通过编程来组织时序，完成一个展示动画。<br/>Understand timing sequence. Learn how to record audio, and organize the timing sequence by programming to finish a animation.</td></tr>
@@ -128,3 +126,6 @@ Schedule (draft, varies with conditions):
 
 通过[问卷](https://www.wjx.top/m/104518878.aspx)进行免费报名。<br/>
 Free enrollment through [the questionaire](https://www.wjx.top/m/104518878.aspx).
+
+我们将通过问卷中您填写的信息来与您取得联系。
+We will get contact with you through the information you provide with in the questionaire.
