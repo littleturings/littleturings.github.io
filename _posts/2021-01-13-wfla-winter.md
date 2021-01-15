@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 冬季线上活动报名开启 Enrollment for online winter session
+title: 冬季与WFLA联动线上活动报名开启 Enrollment for online winter session together with WFLA
 date: 2021-01-13
 author: 詹有丘 Ulysses
 ---
 
-今年寒假，小小图灵社将与[世外Careholic微笑社](http://careholic.cn)编程训练营联合举办线上编程教学活动。<br/>
+今年寒假，小小图灵社将与[世外Careholic微笑社](http://careholic.cn)编程训练营联合举办线上编程教学活动。同往常一样，我们的活动是完全公益的，不收取任何费用。<br/>
 During this winter holiday, Little Turings will collaborate with WFLA Careholic Club to hold the online programming education activity.
+As usual, our activity is completely free of charge.
 
 本次活动我们将开设多个课程：<br/>
 We will provide several courses during this activity:
