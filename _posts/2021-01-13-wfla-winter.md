@@ -24,8 +24,11 @@ It mainly involves Scratch basic syntax and its simple applications, and leads e
 主讲人介绍：杨淏然，上海市世界外国语中学国际部高一在读。学习成绩优异（中考成绩能进上海前五的高中）。两年编程前端与高级语言学习经验，对计算机硬件略有涉猎。NOIP竞赛上海市普及组二等奖，CSP-J2019一等奖。有过编程教学经验。[世外微笑社官方网站](http://careholic.cn)主要技术人员和运营负责人。<br/>
 Lecturer intro: Bobby (杨淏然), WFLA sophomore. Excellent academic performance (zhongkao results can enter the top 5 high schools in Shanghai). Two years of programming front-end and high-level language learning experience, with a little knowledge of computer hardware. Got second prize in Shanghai popularization group in NOIP competition, and first prize in CSP-J2019. Have programming teaching experience. Works as main technical support and manager of [the official website of Careholic](http://careholic.cn).
 
+<details>
+<summary><p>
 课程安排（暂拟，随具体情况变动）：<br/>
 Schedule (draft, varies with conditions):
+</p></summary>
 
 日期：<br/>
 Dates:
@@ -45,7 +48,9 @@ Will contain the following contents:
 快乐的节日<br/>The happy festival | 开始接触程序，为作品增加背景音乐。<br/>Begin with programs and add background music to the work
 海底世界<br/>The undersea world |
 活力森林<br/>The dynamic forest |
-我喜欢的动物<br/>My favourite animals | 理解时序。学会录音，并通过编程来组织时序，完成一个展示动画。<br/>Understand timeline. Learn how to record audio, and organize timeline by programming to finish a animation.
+我喜欢的动物<br/>My favourite animals | 理解时序。学会录音，并通过编程来组织时序，完成一个展示动画。<br/>Understand timing sequence. Learn how to record audio, and organize the timing sequence by programming to finish a animation.
+
+</details>
 
 ## Python零基础入门 Python beginners tutorial
 
@@ -67,13 +72,18 @@ Masters several programming languages, such as Java, JavaScript, Python, Ruby, e
 USACO gold competitor.
 Founder and leader of Little Turings, and the maintainer of [the official website of Little Turings](https://littleturings.github.io).
 
+<details>
+<summary><p>
 课程安排（暂拟，随具体情况变动）：<br/>
 Schedule (draft, varies with conditions):
+</p></summary>
 
 1/23 14:00 - 17:00 | 计算机基础、环境搭建、基础语法<br/>Basic computer operations, environment, basic syntax
 1/24 14:00 - 17:00 | 基本数据类型、运算符、数学<br/>Primitive data types, operators, math
 1/25 14:00 - 17:00 | 列表、字符串<br/>Lists, strings
 1/26 14:00 - 17:00 | 控制结构、函数<br/>Control flow, functions
+
+</details>
 
 ## Python网络爬虫 Python web crawler
 
@@ -94,14 +104,19 @@ Masters Python, C++.
 USACO silver competitor.
 Works as the vice leader of Little Turings and the leader of JDFZ RDC Computer Club.
 
+<details>
+<summary><p>
 课程安排（暂拟，随具体情况变动）：<br/>
 Schedule (draft, varies with conditions):
+</p></summary>
 
 2/1 10:00 - 12:00 | 数据提取与验证码的识别<br/>Data extraction and verification code recognition
 2/2 10:00 - 12:00 | Scrapy框架<br/>Scrapy structure
 2/3 10:00 - 12:00 | 爬虫数据存储<br/>Crawler data storage
 2/4 10:00 - 12:00 | 动态数据抓取<br/>Extraction of dynamic data
 2/5 10:00 - 12:00 | 分布式爬虫<br/>Distributed crawler
+
+</details>
 
 ## 报名 Enrollment
 
