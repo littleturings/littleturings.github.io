@@ -108,7 +108,7 @@ USACO Gold competitor.
 Works as the vice leader of Little Turings and the leader of JDFZ RDC Computer Club.
 
 助教：孙嘉乐，上海市市东中学高二在读，在2020年7月成为了小小图灵社的成员。在Python、互联网、网络安全等方面有非常深入的研究，十分乐意帮助解决学员遇到的问题。<br/>
-Vice lecturer intro: Misaka, Shanghai Shidong Middle School junior,
+Vice lecturer intro: Misaka（孙嘉乐）, Shanghai Shidong Middle School junior,
 became a core member of Littleturings in July 2020.
 Has majored in Python, Internet, network security, etc.
 Willing to help students solve problems with enthusiasm. 
