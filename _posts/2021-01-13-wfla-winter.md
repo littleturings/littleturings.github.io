@@ -104,21 +104,21 @@ If you do not have such skills, it is recommended that you enroll this course to
 Lecturer intro: Orash (施想), JZIB junior.
 Has experience of developing softwares for several years.
 Masters Python, C++.
-USACO silver competitor.
+USACO Gold competitor.
 Works as the vice leader of Little Turings and the leader of JDFZ RDC Computer Club.
 
-<details>
+<details>开发常用模块的使用
 <summary><p>
 课程安排（暂拟，随具体情况变动）：<br/>
 Schedule (draft, varies with conditions):
 </p></summary>
 
 <table><tbody>
-<tr><td>2/1 10:00 - 12:00</td><td>数据提取与验证码的识别<br/>Data extraction and verification code recognition</td></tr>
-<tr><td>2/2 10:00 - 12:00</td><td>Scrapy框架<br/>Scrapy structure</td></tr>
-<tr><td>2/3 10:00 - 12:00</td><td>爬虫数据存储<br/>Crawler data storage</td></tr>
-<tr><td>2/4 10:00 - 12:00</td><td>动态数据抓取<br/>Extraction of dynamic data</td></tr>
-<tr><td>2/5 10:00 - 12:00</td><td>分布式爬虫<br/>Distributed crawler</td></tr>
+<tr><td>2/1 10:00 - 12:00</td><td>爬虫介绍与开发常用模块的使用<br/>Introduction to Crawler and the use of development modules</td></tr>
+<tr><td>2/2 10:00 - 12:00</td><td>数据提取与验证码的识别<br/>Data extraction and verification code recognition</td></tr>
+<tr><td>2/3 10:00 - 12:00</td><td>Scrapy框架<br/>Scrapy structure</td></tr>
+<tr><td>2/4 10:00 - 12:00</td><td>Scrapy框架高级与爬虫数据存储<br/>Scrapy structure advanced and crawler data storage</td></tr>
+<tr><td>2/5 10:00 - 12:00</td><td>动态数据抓取与分布式爬虫<br/>Extraction of dynamic data and distributed crawler</td></tr>
 </tbody></table>
 
 </details>
