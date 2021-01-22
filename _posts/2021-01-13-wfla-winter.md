@@ -107,11 +107,18 @@ Masters Python, C++.
 USACO Gold competitor.
 Works as the vice leader of Little Turings and the leader of JDFZ RDC Computer Club.
 
-<details>开发常用模块的使用
+助教：孙嘉乐，上海市市东中学高二在读，在2020年7月成为了小小图灵社的成员。在Python、互联网、网络安全等方面有非常深入的研究，十分乐意帮助解决学员遇到的问题。<br/>
+Vice lecturer intro: Jiale（孙嘉乐）, Shanghai Shidong Middle School junior,
+became a core member of Littleturings in July 2020.
+Has majored in Python, Internet, network security, etc.
+Willing to help students solve problems with enthusiasm. 
+
 <summary><p>
 课程安排（暂拟，随具体情况变动）：<br/>
 Schedule (draft, varies with conditions):
 </p></summary>
+
+<details>	
 
 <table><tbody>
 <tr><td>2/1 10:00 - 12:00</td><td>爬虫介绍与开发常用模块的使用<br/>Introduction to Crawler and the use of development modules</td></tr>
@@ -122,7 +129,8 @@ Schedule (draft, varies with conditions):
 </tbody></table>
 
 </details>
-
+课程资料链接，请点击[这里](https://github.com/littleturings/2021PythonWebCrawler)。<br/>
+For links to course materials, please click [here](https://github.com/littleturings/2021PythonWebCrawler)<br/>
 ## 报名 Enrollment
 
 通过[问卷](https://www.wjx.top/m/104518878.aspx)进行免费报名。<br/>
