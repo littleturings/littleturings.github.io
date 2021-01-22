@@ -100,7 +100,7 @@ In this course, you will learn the necessary skills of the technical party such 
 The course-takers need to have basic skills of Python.
 If you do not have such skills, it is recommended that you enroll this course together with the Python beginners tutorial above.
 
-主讲人介绍：施想，上海交通大学附属中学IB课程中心高二在读。有多年软件开发经验，精通Python、C++。美国计算机奥赛（USACO）银级选手。担任小小图灵社副社长以及交大附中RDC计算机组组长。<br/>
+主讲人介绍：施想，上海交通大学附属中学IB课程中心高二在读。有多年软件开发经验，精通Python、C++。美国计算机奥赛（USACO）金级选手。担任小小图灵社副社长以及交大附中RDC计算机组组长。<br/>
 Lecturer intro: Orash (施想), JZIB junior.
 Has experience of developing softwares for several years.
 Masters Python, C++.
@@ -128,5 +128,5 @@ Schedule (draft, varies with conditions):
 通过[问卷](https://www.wjx.top/m/104518878.aspx)进行免费报名。<br/>
 Free enrollment through [the questionaire](https://www.wjx.top/m/104518878.aspx).
 
-我们将通过问卷中您填写的信息来与您取得联系。
+我们将通过问卷中您填写的信息来与您取得联系。<br/>
 We will get contact with you through the information you provide with in the questionaire.
