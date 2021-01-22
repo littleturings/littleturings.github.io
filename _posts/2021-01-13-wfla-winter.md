@@ -130,7 +130,7 @@ Schedule (draft, varies with conditions):
 
 </details>
 课程资料链接，请点击[这里](https://github.com/littleturings/2021PythonWebCrawler)。<br/>
-For links to course materials, please click [here].(https://github.com/littleturings/2021PythonWebCrawler)<br/>
+For links to course materials, please click [here](https://github.com/littleturings/2021PythonWebCrawler)<br/>
 ## 报名 Enrollment
 
 通过[问卷](https://www.wjx.top/m/104518878.aspx)进行免费报名。<br/>
