@@ -34,8 +34,8 @@ Schedule (draft, varies with conditions):
 <p>日期：1/24、1/31、2/7、2/14、2/21<br/>
 Dates: 1/24, 1/31, 2/7, 2/14, 2/21</p>
 
-<p>每次1.5小时。具体时间待定。<br/>
-1.5 hours per lesson. The time is undecided.</p>
+<p>上课时间为19:00&mdash;20:30。<br/>
+The time is 19:00&mdash;20:30.</p>
 
 <p>将包含以下内容：<br/>
 Will contain the following contents:</p>
@@ -80,10 +80,10 @@ Schedule (draft, varies with conditions):
 </p></summary>
 
 <table><tbody>
-<tr><td>1/23 14:00 - 17:00</td><td>计算机基础、环境搭建、基础语法<br/>Basic computer operations, environment, basic syntax</td></tr>
-<tr><td>1/24 14:00 - 17:00</td><td>基本数据类型、运算符、数学<br/>Primitive data types, operators, math</td></tr>
-<tr><td>1/25 14:00 - 17:00</td><td>列表、字符串<br/>Lists, strings</td></tr>
-<tr><td>1/26 14:00 - 17:00</td><td>控制结构、函数<br/>Control flow, functions</td></tr>
+<tr><td>1/23 14:00&mdash;17:00</td><td>计算机基础、环境搭建、基础语法<br/>Basic computer operations, environment, basic syntax</td></tr>
+<tr><td>1/24 14:00&mdash;17:00</td><td>基本数据类型、运算符、数学<br/>Primitive data types, operators, math</td></tr>
+<tr><td>1/25 14:00&mdash;17:00</td><td>列表、字符串<br/>Lists, strings</td></tr>
+<tr><td>1/26 14:00&mdash;17:00</td><td>控制结构、函数<br/>Control flow, functions</td></tr>
 </tbody></table>
 
 </details>
@@ -121,11 +121,11 @@ Schedule (draft, varies with conditions):
 <details>	
 
 <table><tbody>
-<tr><td>2/1 10:00 - 12:00</td><td>爬虫介绍与开发常用模块的使用<br/>Introduction to Crawler and the use of development modules</td></tr>
-<tr><td>2/2 10:00 - 12:00</td><td>数据提取与验证码的识别<br/>Data extraction and verification code recognition</td></tr>
-<tr><td>2/3 10:00 - 12:00</td><td>Scrapy框架<br/>Scrapy structure</td></tr>
-<tr><td>2/4 10:00 - 12:00</td><td>Scrapy框架高级与爬虫数据存储<br/>Scrapy structure advanced and crawler data storage</td></tr>
-<tr><td>2/5 10:00 - 12:00</td><td>动态数据抓取与分布式爬虫<br/>Extraction of dynamic data and distributed crawler</td></tr>
+<tr><td>2/1 10:00&mdash;12:00</td><td>爬虫介绍与开发常用模块的使用<br/>Introduction to Crawler and the use of development modules</td></tr>
+<tr><td>2/2 10:00&mdash;12:00</td><td>数据提取与验证码的识别<br/>Data extraction and verification code recognition</td></tr>
+<tr><td>2/3 10:00&mdash;12:00</td><td>Scrapy框架<br/>Scrapy structure</td></tr>
+<tr><td>2/4 10:00&mdash;12:00</td><td>Scrapy框架高级与爬虫数据存储<br/>Scrapy structure advanced and crawler data storage</td></tr>
+<tr><td>2/5 10:00&mdash;12:00</td><td>动态数据抓取与分布式爬虫<br/>Extraction of dynamic data and distributed crawler</td></tr>
 </tbody></table>
 
 </details>
