@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 冬季Python零基础入门活动总结 Winter Python beginners Session Summary
-date: 2021-01-13
+date: 2021-01-30
 author: 詹有丘 Ulysses
 ---
 
